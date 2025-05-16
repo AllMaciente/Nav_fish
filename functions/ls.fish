@@ -1,3 +1,3 @@
 function ls 
-    eza $argv
+    eza --icons=always $argv
 end

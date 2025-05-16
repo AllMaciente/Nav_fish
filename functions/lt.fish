@@ -1,3 +1,3 @@
 function lt 
-    eza --oneline --tree $argv
+    eza --icons=always --oneline --tree $argv
 end

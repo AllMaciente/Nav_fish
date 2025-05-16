@@ -1,3 +1,3 @@
 function lgit 
-    eza --oneline --all --git-ignore $argv
+    eza --oneline --all --icons=always --git-ignore $argv
 end

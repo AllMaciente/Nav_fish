@@ -1,3 +1,3 @@
 function la 
-    eza --oneline --all $argv
+    eza --oneline --all --icons=always $argv
 end
